@@ -1,0 +1,12 @@
+{
+  "name": "rubellite",
+  "version": "0.0.1",
+  "description": ".",
+  "author": "sdadn",
+  "engines": {
+    "npm": "10",
+    "node": "20"      
+  },
+  "scripts": {
+  }
+}
